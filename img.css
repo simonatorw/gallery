@@ -1,0 +1,15 @@
+body {
+	margin: 20px;
+	background-color: #333;
+}
+.imgContainer {
+	float: left;
+	box-sizing: border-box;
+	background-color: #666;
+	margin: 0 20px 20px 0;
+	padding: 20px;
+}
+.img {
+	height: 300px;
+	cursor: move;
+}
